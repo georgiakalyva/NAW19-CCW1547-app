@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>average</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:47:15</sys_created_on>
+        <sys_id>6e831d9db8ac00107f4401e2ec6c7f01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>average</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6e831d9db8ac00107f4401e2ec6c7f01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:47:15</sys_updated_on>
+        <table>x_274523_peer_revi_user_score</table>
+        <ui_policy display_value="Read only form">7c43999db8ac00107f4401e2ec6c7fa7</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</application>
+        <file_path/>
+        <instance_id>0fb163341b2840d0c23fed7b2f4bcb01</instance_id>
+        <instance_name>naw-lnd-ccw1547-055</instance_name>
+        <name>sys_ui_policy_action_6e831d9db8ac00107f4401e2ec6c7f01</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>average</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-16 10:47:15</sys_created_on><sys_id>6e831d9db8ac00107f4401e2ec6c7f01</sys_id><sys_mod_count>0</sys_mod_count><sys_name>average</sys_name><sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package><sys_policy/><sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope><sys_update_name>sys_ui_policy_action_6e831d9db8ac00107f4401e2ec6c7f01</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-16 10:47:15</sys_updated_on><table>x_274523_peer_revi_user_score</table><ui_policy display_value="Read only form">7c43999db8ac00107f4401e2ec6c7fa7</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>721056646</payload_hash>
+        <record_name>average</record_name>
+        <reverted_from/>
+        <source>200b09d5b8ac00107f4401e2ec6c7f0f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:47:15</sys_created_on>
+        <sys_id>a6835d9db8ac00107f4401e2ec6c7f6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dd42dd00d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:47:15</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>26831d9dbbac00107a9e6ef308b12503</update_guid>
+        <update_guid_history>26831d9dbbac00107a9e6ef308b12503:721056646</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:48:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>1c60d1c6133e4ac89c2279dc3266a240</sys_id>
+        <sys_metadata>6e831d9db8ac00107f4401e2ec6c7f01</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>average</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_parent display_value="Read only form">7c43999db8ac00107f4401e2ec6c7fa7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_scope_delete display_value="">75b228cfe50344c39da8c0633f7d4929</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_6e831d9db8ac00107f4401e2ec6c7f01</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_6e831d9db8ac00107f4401e2ec6c7f01">a6835d9db8ac00107f4401e2ec6c7f6c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:48:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
